@@ -27,4 +27,6 @@ var flowerGroup = new app.FlowersCollection([
 
 flowerGroup.add(heirloomRoses)
 
+flowerGroup.remove(redRoses)
+
 console.log(flowerGroup.toJSON())
