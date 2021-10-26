@@ -20,6 +20,4 @@ var heirloomRoses = new app.singleFlower({
   link: 'heirloomRose',
 })
 
-console.log(heirloomRoses.toJSON())
-console.log(rainbowRoses.toJSON())
-console.log(redRoses.toJSON())
+rainbowRoses.set('price', 20)
