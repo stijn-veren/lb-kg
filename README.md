@@ -11,4 +11,8 @@ Backbone.js: https://backbonejs.org
 
 Underscore.js: https://underscorejs.org
 
+Developing Backbone.js Applications: https://github.com/addyosmani/backbone-fundamentals
+
+Marionette: https://marionettejs.com/
+
 ---
