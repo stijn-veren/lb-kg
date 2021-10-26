@@ -7,6 +7,8 @@
 
 ## Resources
 
-...
+Backbone.js: https://backbonejs.org
+
+Underscore.js: https://underscorejs.org
 
 ---
