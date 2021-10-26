@@ -23,10 +23,5 @@ var heirloomRoses = new app.singleFlower({
 var flowerGroup = new app.FlowersCollection([
   redRoses,
   rainbowRoses,
+  heirloomRoses,
 ])
-
-flowerGroup.add(heirloomRoses)
-
-flowerGroup.remove(redRoses)
-
-console.log(flowerGroup.toJSON())
