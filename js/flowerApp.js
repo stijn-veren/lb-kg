@@ -25,3 +25,7 @@ var flowerGroup = new app.FlowersCollection([
   rainbowRoses,
   heirloomRoses,
 ])
+
+var flowerGroupView = new app.allFlowersView({ collection: flowerGroup })
+
+$('#allFlowers').html(flowerGroupView.render().el)
